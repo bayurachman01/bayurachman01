@@ -26,16 +26,16 @@ Hi! I'm **Bayu**, an **AI Programmer and Machine Learning Enthusiast** passionat
 
 I'm interested in transforming ideas into practical AI solutions through programming, machine learning, deep learning, and computer vision.
 
-* 🔭 Currently working on **AI & Machine Learning projects**
-* 🌱 Currently learning **Python, Machine Learning, Deep Learning & Git**
-* 🤖 Interested in **Artificial Intelligence & Computer Vision**
-* 💻 Building and experimenting with **AI applications**
-* 🚀 Improving my programming and problem-solving skills
-* 📚 Always learning new technologies
+* urrently working on **AI & Machine Learning projects**
+* Currently learning **Python, Machine Learning, Deep Learning & Git**
+* Interested in **Artificial Intelligence & Computer Vision**
+* Building and experimenting with **AI applications**
+* Improving my programming and problem-solving skills
+* Always learning new technologies
 
 ---
 
-## 🧠 What I'm Interested In
+## What I'm Interested In
 
 ```text
 Artificial Intelligence
@@ -79,22 +79,22 @@ AI Applications
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 Here are some of the projects I'm currently building and learning from:
 
-* 🤖 **Artificial Intelligence Projects**
-* 🧠 **Machine Learning Models**
-* 👁️ **Computer Vision Projects**
-* 🐍 **Python Applications**
-* 📊 **Data Analysis & Prediction**
-* 🔬 **Deep Learning Experiments**
+* **Artificial Intelligence Projects**
+* **Machine Learning Models**
+* **Computer Vision Projects**
+* **Python Applications**
+* **Data Analysis & Prediction**
+* **Deep Learning Experiments**
 
 > More projects will be added as I continue building and learning.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img 
@@ -119,7 +119,7 @@ Here are some of the projects I'm currently building and learning from:
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img
@@ -130,7 +130,7 @@ Here are some of the projects I'm currently building and learning from:
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 ```text
 [████████████████░░░░] Learn Machine Learning
@@ -142,19 +142,19 @@ Here are some of the projects I'm currently building and learning from:
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-* 🐍 Advanced Python
-* 🧠 Machine Learning
-* 🤖 Deep Learning
-* 👁️ Computer Vision
-* 🔥 PyTorch
-* 📊 Data Science
-* 🌐 Git & GitHub
+* Advanced Python
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* PyTorch
+* Data Science
+* Git & GitHub
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/bayurachman01">
