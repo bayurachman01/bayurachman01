@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="Profile views">
-<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
+<a href="https://github.com/bayurachman01"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
 <div size="20px"> Hi! I'm **Bayu** 👋
 
 I'm an **AI Programmer & Machine Learning Enthusiast** passionate about building intelligent systems, exploring artificial intelligence, and turning ideas into practical solutions. Welcome to my GitHub profile! 🚀
